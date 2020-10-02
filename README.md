@@ -2,6 +2,9 @@
 
 Hi! This app is an open source ecommerce app in flutter. You can go in the issues and comment on them if you want to get assigned.
 
+# Post your doubts on
+Post your doubt here:[Discord server]( https://discord.gg/yxPakE)
+
 
 # Notes
 
