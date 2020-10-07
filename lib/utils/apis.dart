@@ -6,5 +6,6 @@ Note:
 */
 
 abstract class API {
-  static const BASE_URL = "";
+  static const BASE_URL = "https://reqres.in/api/";
+  static const REGISTER_URL = "${BASE_URL}register";
 }
